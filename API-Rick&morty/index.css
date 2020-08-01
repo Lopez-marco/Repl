@@ -1,0 +1,10 @@
+body{
+    display: grid;
+    grid-template-columns: 1;
+    justify-content: center;
+}
+
+img {
+    border: solid 1px;
+    border-radius: 50px;
+}
